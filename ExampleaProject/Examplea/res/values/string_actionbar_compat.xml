@@ -1,0 +1,9 @@
+<resources>
+  <string name="alternate_title"></string>
+  <string name="toggle_title"></string>
+  <string name="menu_search"></string>
+  <string name="menu_refresh"></string>
+  <string name="menu_share"></string>
+  <string name="on">On</string>
+  <string name="off">Off</string>
+</resources>
